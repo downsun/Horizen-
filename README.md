@@ -92,8 +92,11 @@ A	generatekey {"seed":"BUvQVGnY5PGG99q4BHZZar5ab7B6X4AMFnKheg5B7m"}
 ![image](https://github.com/downsun/Horizen-/blob/main/%E9%80%9A%E8%BF%87Horizen%E9%92%B1%E5%8C%85%E4%BB%8ESphere%E5%88%9B%E5%BB%BAHorizen%E4%BE%A7%E9%93%BE.files/%E9%80%9A%E8%BF%87Horizen%E9%92%B1%E5%8C%85%E4%BB%8ESphere%E5%88%9B%E5%BB%BAHorizen%E4%BE%A7%E9%93%BE1534.png)
 
 B	generateVrfKey {"seed":"AEvEHXJw63JtwcauKKz3km8MfHCkGeHXuKBeH32hD5"}
+
 复制系统返回的信息：
+
 C	generateProofInfo {"seed":"ap7zGSt79nS3BJwDY3A5JKEVNbsnxpwcPc7rEZnXL7", "keyCount":7, "threshold":5}
+
 复制系统返回的信息：
 
 3.1在图形界面中声明侧链
